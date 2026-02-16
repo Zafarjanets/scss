@@ -247,4 +247,20 @@
 }
 .green .fd img {
   width: 200px;
+}
+
+.fk {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  align-items: center;
+}
+.fk .text {
+  width: 400px;
+}
+.fk .text p {
+  margin: 14px 0px;
+}
+.fk .asas img {
+  width: 500px;
 }/*# sourceMappingURL=Rington.css.map */
