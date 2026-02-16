@@ -38,4 +38,57 @@
 }
 .section-1 .sd {
   font-size: 20px;
+}
+
+.top1 {
+  background: #4c8f5a;
+  padding: 40px;
+  border-radius: 12px;
+  max-width: 1100px;
+  margin: 40px auto;
+}
+.top1 .top1-h1 {
+  color: white;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+.top1 .booking-form {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) auto;
+  gap: 20px;
+  align-items: end;
+}
+.top1 .booking-form .booking-field {
+  display: flex;
+  flex-direction: column;
+}
+.top1 .booking-form .booking-field label {
+  color: white;
+  font-size: 14px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+.top1 .booking-form .booking-input {
+  background: #e5e5e5;
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+.top1 .booking-form .booking-input input {
+  border: none;
+  background: transparent;
+  width: 100%;
+  font-size: 16px;
+  outline: none;
+}
+.top1 .booking-form .booking-btn {
+  background: #1e1e1e;
+  color: white;
+  border: none;
+  padding: 16px 30px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.top1 .booking-form .booking-btn:hover {
+  background: black;
 }/*# sourceMappingURL=Rington.css.map */
