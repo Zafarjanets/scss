@@ -331,3 +331,32 @@ button{
 
 
 }
+.oxir{
+    background-color: #9bf3b451;
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+    .ds{
+        display: flex;
+        justify-content: space-around;
+        gap: 400px;
+        margin: 20px;
+padding-top: 20px;
+    }
+    .lklk{
+        background-color: white;
+        padding: 20px;
+        border-radius: 14px;
+        width: 300px;
+        .ddd{
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+    }
+    .flex-oxir{
+        display: flex;
+        justify-content: space-evenly;
+
+    }
+}
