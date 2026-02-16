@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+}
+
+.all {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.all .all-1 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.all .all-1 button {
+  padding: 8px 30px;
+  background-color: #3B9254;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+
+.section-1 {
+  background-image: url(./foto/main-pic-bg.png);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: white;
+  justify-content: space-between;
+}
+.section-1 img {
+  width: 50px;
+}
+.section-1 .sd {
+  font-size: 20px;
+}/*# sourceMappingURL=Rington.css.map */
