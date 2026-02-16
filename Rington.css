@@ -277,4 +277,31 @@
   width: 430px;
   padding: 12px;
   border-radius: 10px;
+}
+
+.q-1 {
+  background-color: #3B9254;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.q-2 {
+  background-color: #F0E7D9;
+  padding: 10px;
+  margin-top: 50px;
+}
+.q-2 .inp {
+  margin: 10px;
+}
+.q-2 .inp input {
+  padding: 8px 2px;
+  width: 200px;
+}
+.q-2 button {
+  padding: 8px 30px;
+  margin-left: 10px;
 }/*# sourceMappingURL=Rington.css.map */
