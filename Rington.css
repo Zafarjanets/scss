@@ -263,4 +263,18 @@
 }
 .fk .asas img {
   width: 500px;
+}
+
+.boxx {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 50px;
+}
+.boxx .box-1 {
+  background-color: whitesmoke;
+  width: 430px;
+  padding: 12px;
+  border-radius: 10px;
 }/*# sourceMappingURL=Rington.css.map */

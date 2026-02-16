@@ -288,3 +288,17 @@
     
     
 }
+
+.boxx{
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ gap: 20px;
+ margin-top: 50px;
+    .box-1{
+        background-color: whitesmoke;
+        width: 430px;
+        padding: 12px;
+        border-radius: 10px;
+    }
+}
